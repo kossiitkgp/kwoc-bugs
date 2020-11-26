@@ -14,6 +14,6 @@ Click [here](https://github.com/kossiitkgp/kwoc-bugs/issues/new/choose) for crea
 * If possible, use **_references / examples / images / screenshot_** of the issue that you are facing. It is true that a picture speaks a thousand words. Use graphics to your advantage.
 * Don't tag a specific person while opening an issue, we are continuosly monitoring the issues tab, and a corresponding team member would be taking care for it.
 * Please be _reasonable_ with the expectations, we truly understand how a bad User Experience spoils the mood, but some patience from your side would help us in investigating the issues.
-* Finally, we would be happy if you could **_try / test_** out all the features and let us know about the issues if any, this would help us in fixing them ASAP, and prevent others from having the same issue.
+* Finally, we would be happy 🤗 if you could **_try / test_** out all the features and let us know about the issues if any, this would help us in fixing them ASAP, and prevent others from having the same issue.
 
 Made with <span class="heart">❤</span> by KOSS
