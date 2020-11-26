@@ -1,6 +1,6 @@
 # kwoc-bugs 🐛
 
-This Repository tracks all the filed bugs 🐛 for KWoC. Mentors and Students are encouraged to use this, in case they find an unexpected behaviour with the webapp.
+This Repository tracks all the filed bugs 🐛 for KWoC. Mentors🧑‍🏫 and Students👨🏽‍🎓 are encouraged to use this, in case they find an unexpected behaviour with the webapp.
 
 ### Description
 We have tried to provide a good User Experience among the users, still there might be some issues/shortcomings with the WebApp.
