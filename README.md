@@ -16,4 +16,4 @@ Click [here](https://github.com/kossiitkgp/kwoc-bugs/issues/new/choose) for crea
 * Please be _reasonable_ with the expectations, we truly understand how a bad User Experience spoils the mood, but some patience from your side would help us in investigating the issues ✔️.
 * Finally, we would be happy 🤗 if you could **_try / test_** out all the features and let us know about the issues if any, this would help us in fixing them ASAP, and prevent others from having the same issue 🥳.
 
-Made with <span class="heart">❤</span> by KOSS
+## Made with <span class="heart">❤</span> by KOSS
