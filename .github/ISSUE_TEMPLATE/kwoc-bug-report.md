@@ -11,6 +11,5 @@ assignees: ''
 <!---
 Describe the your problem, and attach some images(if required) explaining your problem-->
 
-* Link:
 * URL:
 * Date Observed:
