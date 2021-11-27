@@ -7,6 +7,8 @@ We have tried to provide a good User Experience among the users, still there mig
 It would be nice for you to file the **_bugs / issues / feature-request / shortcomings / user experience issues_**, for the same, and
 would be practically possible for us to manage the workflow and logistics of the changes.
 
+- KWoC Frontend - https://github.com/kossiitkgp/KWoC-21-Frontend
+- KWoC Backend - https://github.com/kossiitkgp/KWoC-Backend
 ### Creating an issue
 Click [here](https://github.com/kossiitkgp/kwoc-bugs/issues/new/choose) for creating an issue. Use the header field for describing the issue, and some details about it in the comments field.
 
